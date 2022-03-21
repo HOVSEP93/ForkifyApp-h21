@@ -1,11 +1,9 @@
-<h1 style="text-align: "center"; style="font-weight: bold;">Forkify App</h1>
+<h1 style="text-align: "center"; style="font-weight: bold;">ForkifyApp-H21 </h1>
 
 <h1>introduction</h1>
-<p align="center">ForkifyApp-H21</p>
+
                  
-<p align="center">
- <a href="#Demo">• Demo</a>
-</p><hr>
+
 
 ## Demo
 <br>
@@ -17,12 +15,12 @@
 <p>The Complete JavaScript Course 2022: From Zero to Expert!<br>
 </p><hr>
 
-## Teste a página:
+## DEMO:
 https://forkifyapp-thiago.netlify.app/
 
-<br> <h2>Página feita com:</h2>
+<br> <h2>technology i use here:</h2>
 
 <p><span><img align="center" alt="Th-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></span> Javascript</p>
 <p>CSS</p>
 
-## Feito por Thiago<br> [![LinkedIn Badge](https://img.shields.io/badge/-Thiago_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoma/)](https://www.linkedin.com/in/thiagoma/)
+
