@@ -18,7 +18,7 @@
                                                                     
 
 ## DEMO:
-https://forkifyapp-thiago.netlify.app/
+https://forkify-app-h21.vercel.app/
 
 <br> <h2>technology i use here:</h2>
 
