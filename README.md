@@ -1,7 +1,7 @@
 <h1 style="text-align: "center"; style="font-weight: bold;">Forkify App</h1>
 
-<h1>Introdução</h1>
-<p align="center">App de receitas.</p>
+<h1>introduction</h1>
+<p align="center">ForkifyApp</p>
                  
 <p align="center">
  <a href="#Demonstração">• Demonstração</a>
