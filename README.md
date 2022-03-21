@@ -14,7 +14,7 @@
 <p>The Complete JavaScript Course 2022: From Zero to Expert!<br>
 </p><hr>
                                                                     
-<p><a href="https://www.udemy.com/course/the-complete-javascript-course/#instructor-1">Jonas Schmedtmann</a> Jonas Schmedtmann<br>                                        </p>
+<p><a href="https://www.udemy.com/course/the-complete-javascript-course/#instructor-1">Jonas Schmedtmann</a> <br>                                        </p>
                                                                     
 
 ## DEMO:
