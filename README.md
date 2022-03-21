@@ -5,7 +5,6 @@
                  
 
 
-## Demo
 <br>
 <div style="text-align: center;">
 <img alt="BankistGif" title="BankistGif" src="./github/Animação.gif" >
