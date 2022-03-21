@@ -14,7 +14,7 @@
 </div><hr>
 
 ## Sobre
-<p>Aplicativo completo de receitas com uploads costumizados, pesquisa de receitas e marcação. Todos os dados guardados ao recarregar a página.<br>
+<p>The Complete JavaScript Course 2022: From Zero to Expert!<br>
 </p><hr>
 
 ## Teste a página:
