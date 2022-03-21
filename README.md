@@ -1,11 +1,10 @@
 <h1 style="text-align: "center"; style="font-weight: bold;">Forkify App</h1>
 
 <h1>introduction</h1>
-<p align="center">ForkifyApp</p>
+<p align="center">ForkifyApp-H21</p>
                  
 <p align="center">
- <a href="#Demonstração">• Demonstração</a>
- <a href="#Sobre"> • Sobre</a>
+ <a href="#Demo">• Demo</a>
 </p><hr>
 
 ## Demo
